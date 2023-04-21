@@ -4,6 +4,6 @@ public class TreeException extends Exception
 {
 	public TreeException(String s)
 	{
-		super("Tree not found");
+		super("Tree exception found.");
 	}
 }
